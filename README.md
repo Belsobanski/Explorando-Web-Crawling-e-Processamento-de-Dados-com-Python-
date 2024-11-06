@@ -1,6 +1,6 @@
-# Projeto Web Crawling e Processamento de Dados com Python
+# Projeto web scraping e Processamento de Dados com Python
 
-Este projeto realiza a extração de notícias do site da **CNN** utilizando **web crawling**. Os dados extraídos incluem informações como **Título**, **Data de Publicação** e **Link** das notícias, e são salvos em dois formatos: **JSON**, **CSV** e **Parquet** para futuras análises.
+Este projeto realiza a extração de notícias do site da **CNN** utilizando **web scraping**. Os dados extraídos incluem informações como **Título**, **Data de Publicação** e **Link** das notícias, e são salvos em dois formatos: **JSON**, **CSV** e **Parquet** para futuras análises.
 
 ## Tecnologias Utilizadas
 
